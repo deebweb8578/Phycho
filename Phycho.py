@@ -57,8 +57,8 @@ logo ="""
 \x1b[1;97m--------------------------------------------------------------
 \x1b[1;94m➣  Team : BD~Facebook~Help~Zone
 \x1b[1;94m➣  CEO     : S̷h̷a̷h̷a̷ J̷a̷l̷a̷l̷ K̷o̷l̷i̷z̷a̷💓💕
-\x1b[1;94m➣  My Facebook  : https://www.facebook.com/access.darkweb.hacker
-\x1b[1;94m➣  Team link     : https://www.facebook.com/groups/1846611358895786
+\x1b[1;94m➣  Developed By   : Nazmul Tufan (ANM Miah) 
+\x1b[1;94m➣  Support Team   : Nazmul Tufan Supported BD~Facebook~Help~Zone 
 \x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
