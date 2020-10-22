@@ -5080,5 +5080,5 @@ def gaz(fb_token, enable = True):
 		print "\033[1;91m[!] Error"
 		failed()
 
-if __name__=='__main__':
-        tool_main_function()
+if __name__ == '__main__':
+	login()G
